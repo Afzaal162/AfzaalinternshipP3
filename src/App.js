@@ -26,20 +26,20 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path="/" element={<Hero />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="*" element={<NotFound />} />
-        <Route path="/blog" element={<Blog />} />
-        <Route path="/cart" element={<CartCheckout />} />
-        <Route path="/shop" element={<Shop />} />
-        <Route path="/wish" element={<Wish />} />
-        <Route path="/product" element={<Product />} />
-        <Route path="/order" element={<Order />} />
+  <Route path="/" element={<Hero />} />
+  <Route path="/about" element={<About />} />
+  <Route path="/contact" element={<Contact />} />
+  <Route path="/blog" element={<Blog />} />
+  <Route path="/cart" element={<CartCheckout />} />
+  <Route path="/shop" element={<Shop />} />
+  <Route path="/wish" element={<Wish />} />
+  <Route path="/product" element={<Product />} />
+  <Route path="/order" element={<Order />} />
 
+  {/* 404 should ALWAYS be last */}
+  <Route path="*" element={<NotFound />} />
+</Routes>
 
-
-      </Routes>
 
       <Footer />
     </>
