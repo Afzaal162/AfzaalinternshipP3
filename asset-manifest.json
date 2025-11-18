@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AfzaalinternshipP3/static/css/main.c5495822.css",
-    "main.js": "/AfzaalinternshipP3/static/js/main.a577560f.js",
+    "main.js": "/AfzaalinternshipP3/static/js/main.82e1354c.js",
     "index.html": "/AfzaalinternshipP3/index.html",
     "main.c5495822.css.map": "/AfzaalinternshipP3/static/css/main.c5495822.css.map",
-    "main.a577560f.js.map": "/AfzaalinternshipP3/static/js/main.a577560f.js.map"
+    "main.82e1354c.js.map": "/AfzaalinternshipP3/static/js/main.82e1354c.js.map"
   },
   "entrypoints": [
     "static/css/main.c5495822.css",
-    "static/js/main.a577560f.js"
+    "static/js/main.82e1354c.js"
   ]
 }
