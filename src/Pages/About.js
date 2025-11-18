@@ -5,7 +5,19 @@ const About = () => {
   return (
     <>
       {/* Hero Section */}
-      <div className="about-section" >
+      <div className="about-section" style={{
+    width: "100%",
+    height: "50vh",
+    position: "relative",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    animation: "fadeInHero 1s ease-in-out",
+    backgroundImage: `url('https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=1600&auto=format&fit=crop')`,
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+  }} >
         <div className="hero-overlay">
           <h1 className="hero-title">ABOUT US</h1>
         </div>
