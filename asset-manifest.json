@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AfzaalinternshipP3/static/css/main.c5495822.css",
+    "main.js": "/AfzaalinternshipP3/static/js/main.b715860c.js",
+    "index.html": "/AfzaalinternshipP3/index.html",
+    "main.c5495822.css.map": "/AfzaalinternshipP3/static/css/main.c5495822.css.map",
+    "main.b715860c.js.map": "/AfzaalinternshipP3/static/js/main.b715860c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5495822.css",
+    "static/js/main.b715860c.js"
+  ]
+}
